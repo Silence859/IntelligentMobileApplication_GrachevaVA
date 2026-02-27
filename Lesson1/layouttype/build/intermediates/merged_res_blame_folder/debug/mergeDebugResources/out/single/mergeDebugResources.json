@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_constraint_layout.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\constraint_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout-land_activity_second.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout-land\\activity_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\drawable_yi.jpg.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\drawable\\yi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout-land_control_lesson1.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout-land\\control_lesson1.xml"
+    },
+    {
+        "merged": "ru.mirea.grachevava.layouttype-debug-4:/layout_control_lesson1.xml.flat",
+        "source": "ru.mirea.grachevava.layouttype-main-6:/layout/control_lesson1.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_lineral_layout.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\lineral_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_control_lesson1.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\control_lesson1.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout-land_activity_main.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout-land\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\layout_table_layout.xml.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\layout\\table_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-debug-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\repa1\\.gradle\\daemon\\8.13\\ru.mirea.grachevava.layouttype-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+    }
+]
