@@ -1,0 +1,28 @@
+1. Будет ли вызван метод «onCreate» после нажатия на кнопку «Home» и возврата
+в приложение?
+Нет, не будет. При сворачивании через Home активность не уничтожается, поэтому при возврате вызывается onRestart, а не onCreate
+
+Пример вывода в LogCat:
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onRestart()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onStart()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onResume()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onPostResume()
+
+2. Изменится ли значение поля «EditText» после нажатия на кнопку «Home» и
+возврата в приложение?
+Нет, текст сохраняется, так как система автоматически сохраняет состояние View с id.
+
+3. Изменится ли значение поля «EditText» после нажатия на кнопку «Back» и
+возврата в приложение?
+Да, изменится. Если нажать "Назад" на эмуляторе, активность полностью уничтожается(onPause - onStop - onDestroy). 
+При повторном запуске создаётся новая активность(onCreate), и поле будет пустым.
+
+Пример вывода в LogCat:
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onPause()
+...
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onStop()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onDestroy()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onRestart()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onStart()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onResume()
+MainActivity            ru.mirea.gracheva.activitylifecycle  I  onPostResume()

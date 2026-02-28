@@ -1,0 +1,36 @@
+После выполнения следующей последовательности действий:
+1. Запуск приложения
+2. Нажатие на кнопку "Start new activity"
+3. Нажатие на кнопку "Назад" на эмуляторе
+4. Нажатие на кнопку "Назад" на эмуляторе
+В LogCat были получены следующие логи:
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onCreate_MainActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onStart_MainActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onPause_MainActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onCreate_SecondActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onStart_SecondActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onResume_SecondActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onStop_MainActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onPause_SecondActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onRestart_MainActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onStart_MainActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onResume_MainActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onStop_SecondActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onDestroy_SecondActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onPause_MainActivity()
+...
+MainActivity            ru.mirea.grachevamultiactivity       I  onStop_MainActivity()
+MainActivity            ru.mirea.grachevamultiactivity       I  onDestroy_MainActivity()
+...
+
+По этим логам можно отследить жизненный цикл каждой из активностей:
+1. MainActivity создается. SecondActivity пока что не создана
+2. MainActivity встает на паузу. SecondActivity создается. MainActivity останавливается и остается в памяти
+3. SecondActivity уничтожается. MainActivity стартует заново
+4. MainActivity уничтожается
