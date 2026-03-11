@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavoriteBook</string>
+    <string name="default_message">Тут появится название вашей любимой книги и любимая цитата из нее!</string>
+</resources>
