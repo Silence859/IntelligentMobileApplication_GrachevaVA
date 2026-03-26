@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_data">
+
+    <fragment
+        android:id="@+id/nav_data"
+        android:name="ru.mirea.gracheva.mireaproject.DataFragment"
+        android:label="DataFragment"
+        tools:layout="@layout/fragment_data" />
+
+    <fragment
+        android:id="@+id/nav_web"
+        android:name="ru.mirea.gracheva.mireaproject.WebViewFragment"
+        android:label="WebViewFragment"
+        tools:layout="@layout/fragment_web_view" />
+
+    <fragment
+        android:id="@+id/nav_background_task"
+        android:name="ru.mirea.gracheva.mireaproject.BackgroundTaskFragment"
+        android:label="Фоновая задача"
+        tools:layout="@layout/fragment_background_task" />
+</navigation>
